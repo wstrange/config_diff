@@ -1,0 +1,8 @@
+{
+    "type" : "text/javascript",
+    "file" : "workflow/getavailableuserstoassign.js",
+    "test" : "&{foo.bar}",
+     "arraytest": [ "a", 1, true],
+    "booltest": true,
+    "nulltest": null
+}
